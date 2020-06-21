@@ -1,0 +1,63 @@
+REF: https://turo.com/ca/en
+nav bar:
+text-color: rbg(35,31,32)
+font-family: BasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-serif
+font-size:16px
+font-weight: 400
+
+Banner:
+h1-font-size: 90px
+h2-font-size: 21px
+text-color: rbg(35,31,32)
+h1-font-family: RlFreight, HoeflerText-Black, Times New Roman, serif
+h2-font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-seriff
+font-weight: 900
+
+Inssurance:
+text-color: rgb(137, 137, 137);
+font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-seriff
+font-size: 12px
+font-weight: 900px
+-----------------------------------------------------
+Stand-Out:
+text-color:color: rgb(18, 18, 20);
+h1-font-size: 21px;
+h2-font-size: 51px;
+font-weight: 900
+h1-font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-seriff
+h2-font-family: RlFreight, HoeflerText-Black, Times New Roman, serif
+---------------------
+Text Gallery #1:
+text-color: rgb(18, 18, 20);
+font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-seriff
+h3-font-size: 21px
+p-font-size: 16px
+link-font-size: 16px;
+Link-color: rgb(89, 60, 251);
+link-font-weight: 700px;
+-----------------------
+Car gallery:
+h3-font-size: 21px
+p-font-size: 16px
+--------------------
+Text Gallery #2: Idem #1
+------------------
+Top cities section:
+h1-font-size: 51px;
+h1-font-family: RlFreight, HoeflerText-Black, Times New Roman, serif
+p-font-size: 16px;
+p-font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-seriff
+
+---------------------
+Share your car section
+color:rgb(35, 31, 32);
+h1-font-size: 51px
+p- font-size: 16px
+h1-font-family: RlFreight, HoeflerText-Black, Times New Roman, serif
+p-font-family: RlBasisGrotesque, Avenir, Helvetica Neue, Helvetica, sans-seriff
+p-font-weight:400
+h1-font-weight: 900
+--------------------------
+Additional founder section
+-------------------------
+Modified footer

@@ -1,0 +1,4 @@
+banner: https://d84g7x7n0gri.cloudfront.net/img/home/hero-warm-1200.29f262ff.jpg
+turo-logo: https://www.logo-designer.co/wp-content/uploads/2015/11/DesignStudio-logo-design-Turo-2.png
+icbc-logo:https://www.contentstrategyinc.com/wp-content/uploads/icbc-logo-white.png
+intact-logo:https://toppng.com/uploads/preview/intact-insurance-logo-11563321940z3fdzmuqr2.png
